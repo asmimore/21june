@@ -1,6 +1,6 @@
 trigger:
   - main
-pool: myUbuntuAgentsPool
+pool: mytestpool
 variables:
   imageName: 'asmitamore/nodeapp'
 steps:
